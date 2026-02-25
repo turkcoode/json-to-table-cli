@@ -1,0 +1,20 @@
+{
+  "name": "json-to-table-cli",
+  "version": "1.0.0",
+  "description": "JSON verisini terminalde tablo formatında gösteren CLI aracı",
+  "main": "index.js",
+  "bin": {
+    "json-table": "./index.js"
+  },
+  "keywords": [
+    "json",
+    "table",
+    "cli",
+    "terminal",
+    "format",
+    "pretty-print"
+  ],
+  "author": "turkcoode",
+  "license": "MIT",
+  "homepage": "https://turkcode.net"
+}
